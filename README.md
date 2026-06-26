@@ -1,4 +1,4 @@
-## Hello, I'm David 🧙‍♂️🧠
+## 🍄🧌🧙🏻‍♂️🧠
 
 I have a PhD in Computational and Cognitive Neuroscience, and I'm a postdoctoral researcher at University College London (UCL).
 
