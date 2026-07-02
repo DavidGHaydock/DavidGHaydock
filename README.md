@@ -1,5 +1,3 @@
-## 🍄🧌🧙🏻‍♂️🧠
-
 I have a PhD in Computational and Cognitive Neuroscience, and I'm a postdoctoral researcher at University College London (UCL).
 
 I’m currently working on the Automatic Neuroscientist - an open access, real-time analysis tool at closes the hypothesis loop to allows users to efficiently search a task space, or to map a specific brain metric across multiple dimensions of task design.
